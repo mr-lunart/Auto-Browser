@@ -1,5 +1,7 @@
 # Knowledge Engine
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **An agent-ready browser automation desktop app** — a PySide6 + Streamlit front-end built to host an AI agent that sees, reasons, and drives a real Chromium browser over the Chrome DevTools Protocol (CDP).
 
 Knowledge Engine wraps a Streamlit web app inside a native Qt desktop window, giving you a polished, installable UI for an agentic system that is planned to be powered by **LangGraph** and **MCP Playwright**.
@@ -117,4 +119,4 @@ The FastAPI service (once the agent graphs are wired in) exposes:
 
 ## 📄 License
 
-POC / private project.
+Distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
